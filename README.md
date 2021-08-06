@@ -2,6 +2,8 @@
 
 https://www.platinumvolunteers.com/
 
+Events can be approved at https://www.platinumvolunteers.com/admin
+
 Developed by: [Azriel Bachrach](https://www.linkedin.com/in/azriel-bachrach/), [Arieh Chaikin](https://www.linkedin.com/in/arieh-chaikin-1632011a3/), [Isaac Gutt](https://www.linkedin.com/in/isaac-gutt-1755a2183/), [Eli Levy](https://www.linkedin.com/in/eliyahu-levy-4417a51b5/), and [Lawrence Snow](https://www.linkedin.com/in/lawrence-snow-059629203/)
 
 Mentor: [Alex Porcelain](https://www.linkedin.com/in/alexporcelain/) 
