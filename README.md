@@ -87,7 +87,7 @@ The second template creates the infratructure for the two microservices. It crea
       ```bash
       amplify add auth
       
-      # When asked how you why do users to sign in choose "Email"
+      # When asked how you what do users to sign in choose "Email"
       ```
 
    3. Configure an Amazon S3 bucket to store avatars.
